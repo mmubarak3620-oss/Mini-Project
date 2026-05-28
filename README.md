@@ -1,7 +1,8 @@
-Time Series Analysis and Weather Forecasting Project
-Google Colab Link
+# CineML — Movie Recommendation System
 
-Open Time Series Analysis and Weather Forecasting Project
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oAScCnzSUaYerWAkCXjDxFkbinWrj5SN?usp=sharing)
+
+A content-based movie recommendation system using Machine Learning, Flask, TF-IDF and Cosine Similarity.
 
 Project Description
 
